@@ -1,0 +1,31 @@
+.title {
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 0 0 10px #e7e7e7, 0 0 20px #ffffff, 0 0 20px #654f00, 0 0 40px #654f00,
+    0 0 50px #654f00, 0 0 70px #654f00, 0 0 80px #654f00 ;
+
+    
+
+}
+
+.image {
+    image-orientation:inherit;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .imageContainer {
+    margin: 10px;
+  }
+  
+  .image {
+    width: 300px;
+    height: 290px;
+  }
+  
